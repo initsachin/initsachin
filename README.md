@@ -1,4 +1,4 @@
-<h1> Hi there, I'm Shubham 👋 </h1>
+<h1> Hi there, I'm Sachin 👋 </h1>
 I am an AI product Manager with hands on experience in building and scaling AI products.I assist AI companies in developing strategies to reach larger audiences and effectively position their products in front of the right customers.
 
 <h2> About Me </h2>
