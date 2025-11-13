@@ -25,7 +25,7 @@ My work emphasizes hands on engineering robust codebases, reusable design patter
 
 📚 Author Of : Agents In Action [ Forthcoming Book ]
 
-🔭 Built Decode AI, an open source hub for elite AI builders offering curated news, deep dive guides, and advanced agent tools
+🔭 First AI Product Builders, an open source hub for elite AI builders offering curated news, deep dive guides, and advanced agent tools
 
 🐦 [Twitter](http://www.twitter.com/initsachin) • 💼 [LinkedIn](https://www.linkedin.com/in/initsachin/) • 🖋️ [Substack](https://initsachin.substack.com/) 
 
